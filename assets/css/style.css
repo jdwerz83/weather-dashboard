@@ -1,0 +1,16 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+ul {
+    list-style: square;
+}
+
+li {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
